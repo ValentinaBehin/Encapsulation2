@@ -1,0 +1,2 @@
+D:\oom\LineOO\obj\Debug\LineOO.csprojAssemblyReference.cache
+D:\oom\LineOO\obj\Debug\LineOO.csproj.CoreCompileInputs.cache
