@@ -1,0 +1,6 @@
+D:\oom\Line\bin\Debug\Line.exe
+D:\oom\Line\bin\Debug\Line.pdb
+D:\oom\Line\obj\Debug\Line.csprojAssemblyReference.cache
+D:\oom\Line\obj\Debug\Line.csproj.CoreCompileInputs.cache
+D:\oom\Line\obj\Debug\Line.exe
+D:\oom\Line\obj\Debug\Line.pdb
